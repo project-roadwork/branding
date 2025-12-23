@@ -17,7 +17,7 @@
 
 ![Other Wordmark](<full-color/png/large/Detailed_Interim_Wordmark_large.png>)
 
-![Brand Colors](<reference/Interim_Brand_Colors_Reference.png>)
+![Brand Colors](<reference/Interim_Brand_Colors_Reference_Alternative.png>)
 
 
 > [!NOTE]
