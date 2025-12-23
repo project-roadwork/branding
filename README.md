@@ -1,6 +1,17 @@
-## Welcome to the Project Roadwork branding page!
+# Welcome to the Project Roadwork branding page!
 
-This is a relatively simple repository, but feel free to look around!
+**This is a relatively simple repository, but feel free to look around!**
+
+## Git Repositories
+
+**(Main) Codeberg: https://codeberg.org/project-roadwork/branding**
+
+**(Backup/Mirror) GitHub: https://github.com/project-roadwork/branding**
+
+***Please use the main repository especially with pull requests, contributions, commits, and issues!** Additionally, please **DO NOT** make any changes in the mirrored repository as it cannot be pulled into the main repo.*
+
+## Branding Reference
+
 
 **Background Font: [Roadgeek 2014 (by Sammi De Guzman, under the MIT License)](https://github.com/sammdot/roadgeek-fonts)**
 
