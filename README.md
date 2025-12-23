@@ -23,4 +23,4 @@
 > [!NOTE]
 > **This branding kit is licensed under the [Creative Commons Attribution-ShareAlike 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/). *This may be changed to a more permissive license in the future.***
 
-**Inspired by Campground's branding repository: https://github.com/project-campground/branding**
+**Inspired by Campground's branding repository (public domain; CC0): https://github.com/project-campground/branding**
