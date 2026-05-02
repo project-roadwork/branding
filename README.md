@@ -22,5 +22,7 @@
 
 > [!NOTE]
 > **This branding kit is licensed under the [Creative Commons Attribution-ShareAlike 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/). *This may be changed to a more permissive license in the future.***
+> 
+> Although the logo designs themselves may be freely licensed, *you are not permettied to use the unregistered trademarks (logos, text, etc.) without express written permission.*
 
 **Inspired by Campground's branding repository (public domain; CC0): https://github.com/project-campground/branding**
